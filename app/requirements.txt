@@ -4,6 +4,7 @@ flask_sqlalchemy
 flask_migrate
 psycopg2-binary
 
+sqlalchemy<2.0 
 
-pandas
-matplotlib
+pytest
+pytest-flask
